@@ -1,0 +1,1 @@
+Here I present my first Neural Network classification problem. I'm a passionate of the Healthcare and for this reason I've choosed a problem of brain tumor classification through neuroimages. In this case, I wanted to explore not only a Keras NN model but also the transfer learning process with two pre-trained CV model such as VGG16 and Inception V1. Have fun!
